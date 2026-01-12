@@ -1,0 +1,15 @@
+{
+  "originHash" : "8bc6b1072fb8b25c0c0906d221fa2d5a88beefeabb2fdf7a001311fe5d26ed33",
+  "pins" : [
+    {
+      "identity" : "ngram",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/jseibert/nGram.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "11992167c4d9e868e08547934f8989078c0dd08d"
+      }
+    }
+  ],
+  "version" : 3
+}
